@@ -5,4 +5,4 @@
 ##### Safety - https://data.wprdc.org/dataset/arrest-data
 ##### Cost - https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2014-miscellaneous-data/resource/262d10d1-1e49-41f6-bb8a-0c4511a9085c
 ##### Transportation - https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops
-#### Overview: 
+#### Overview: Three important things to look into when renting or buying an apartment or house is affordability, safety, transportation. By collecting this data we can see what neighborhood is the economically efficient.
