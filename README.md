@@ -8,4 +8,4 @@
 ###### This data is reported by American Community Survey Report from 2014 and shows data about the housing value.
 ##### Transportation - https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops
 ###### This data is from the Pittsburgh Regional Transportation and shows the transit stops within the Pittsburgh Regional Transit's service area in 2019.
-#### Overview: Three important things to look into when renting or buying an apartment or house is affordability, safety, transportation. By collecting this data we can see what neighborhood is the economically efficient.
+#### Overview: Three important things to look into when renting or buying an apartment or house is affordability, safety, transportation. By collecting this data we can see what neighborhood has the most cost effective.
