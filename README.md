@@ -11,5 +11,5 @@
 #### Overview: Three important things to look into when renting or buying an apartment or house is affordability, safety, transportation. By collecting this data we can see what neighborhood has the most cost effective.
 
 #### Conclusion: We have found that the best area for easy access to transportation is near Steel Plaza. The safest neighborhoods are Mount Oliver, Troy Hills, and Central Northside. The average person can afford a house for around $150,000.
-Using all this information, we have determined that Mt. Oliver is one of the safest neighborhoods, it is around 25 minutes to get to Steel Plaza by bus and have houses that cost around $150,000.
+#### Using all this information, we have determined that Mt. Oliver is one of the safest neighborhoods, it is around 25 minutes to get to Steel Plaza by bus and have houses that cost around $150,000.
 
